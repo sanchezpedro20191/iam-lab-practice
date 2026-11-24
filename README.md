@@ -2,11 +2,11 @@
 
 ## Project Overview
 
-One or two sentences on what this is.
+In this Project I learned how to create a Repo, a README inside that Repo, and how to use Markdowns. 
 
 ## Business Scenario
 
-The fictional company and what they needed.
+Zero to Sec: Created A Repo on Github
 
 ## Tools Used
 
@@ -14,7 +14,9 @@ The fictional company and what they needed.
 
 ## What I Built
 
-The main sections of work.
+- Repo
+- Folders
+- README
 
 ## Screenshots
 
