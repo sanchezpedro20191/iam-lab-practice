@@ -1,4 +1,4 @@
-# Project Title
+  # Project Title
 
 ## Project Overview
 
@@ -17,6 +17,7 @@ Zero to Sec: Created A Repo on Github
 - Repo
 - Folders
 - README
+- Adding Screenshots
 
 ## Screenshots
 
@@ -24,8 +25,8 @@ Zero to Sec: Created A Repo on Github
 
 ## Security Lessons Learned
 
-What this taught me about why it matters.
+What I Learned in this Lab was how to create a Repo from scratch. How to create folders and how to use Markdowns to create headings and add screenshots.
 
 ## Future Improvements
-
-What I would do next, honestly.
+      
+Step 5 tripped me up a bit when re-naming the screenshot file practice-shot.png. Every time I saved it and clicked the link I got an error. Reason being I did not have to add the png to file name just "practice-shot". File will be saved as a PNG.
