@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-In this Project I learned how to create a Repo, a README inside that Repo, and how to use Markdowns. 
+In this Project I learned how to create a Repo, a README inside that Repo, and how to use Markdown. 
 
 ## Business Scenario
 
@@ -23,7 +23,7 @@ Zero to Sec: Created A Repo on Github
 
 ![Description of the image](screenshots/practice-shot.png)
 
-## Security Lessons Learned
+## Security lessons learned
 
 What I Learned in this Lab was how to create a Repo from scratch. How to create folders and how to use Markdowns to create headings and add screenshots.
 
