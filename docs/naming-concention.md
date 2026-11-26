@@ -1,4 +1,4 @@
-SEC-<Type>-<Name>
+SEC- <Type>- <Name>
 
 Northwind Services will use the naming convention as follows. All security groups using `SEC-<Type>-<Name>`. SEC identifies the object as a security group, <Type> defines the grouping category (Dept for department, Role for job function, or Loc for physical location), and <Name> specifies the actual category (such as Finance, Helpdesk, or Remote, resulting in groups like SEC-Dept-Finance and SEC-Role-Helpdesk). All user principal names (UPNs) will follow the firstname.lastname@://onmicrosoft.com format across all 15 users.
 
